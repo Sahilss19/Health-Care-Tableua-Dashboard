@@ -15,3 +15,6 @@ Insights
 Highlights survival trends by health conditions and clinical metrics.
 Supports identifying risk factors for informed healthcare decisions.
 Note: For educational use; data does not represent real patients.
+
+
+![Uploading Screenshot 2024-10-27 214846.png…]()
