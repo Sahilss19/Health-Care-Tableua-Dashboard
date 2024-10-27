@@ -17,4 +17,6 @@ Supports identifying risk factors for informed healthcare decisions.
 Note: For educational use; data does not represent real patients.
 
 
-![Uploading Screenshot 2024-10-27 214846.png…]()
+
+![Screenshot 2024-10-27 214846](https://github.com/user-attachments/assets/5c9aa849-df6a-4511-a7f8-a47f07d3ec1e)
+
